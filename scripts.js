@@ -3,18 +3,28 @@ const timelineData = [
     {
         date: 'May 2023 - Present',
         title: 'IT Engineering Lead, Actium Health',
-        description: ''
+        description: '• Developed a new streamlined technology plan and tech stack to fit the organizations new strategy and business objectives'
     },
     {
         date: 'September 2022 - April 2023',
         title: 'IT Lead, Remitly',
-        description: ''
+        description: 'Technical Lead for the IT Support teams in a global organization, including project planning and prioritization'
     },
     {
         date: 'March 2019 - September 2022',
         title: 'Lead IT Systems Engineer, 98point6',
-        description: ''
-    }
+        description: 'Technical Lead for the IT team in a fast-paced and dynamic healthcare startup environment'
+    },
+    {
+        date: ' January 2018 - March 2019',
+        title: 'Systems Analyst, Seitel Systems',
+        description: 'Owned system design, maintenance, and operations of all software and hardware systems'
+    },
+    {
+        date: 'March 2019 - September 2022',
+        title: 'IT Consultant II, 501 Commons',
+        description: 'Managed over 20 customer networks including remote support, scheduled visits to client offices, and emergency incident response'
+    },
 ];
 
     const timeline = document.getElementById('timeline');
