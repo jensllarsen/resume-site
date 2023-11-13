@@ -3,7 +3,7 @@ const timelineData = [
     {
         date: 'May 2023 - Present',
         title: 'IT Engineering Lead, Actium Health',
-        description: '• Developed a new streamlined technology plan and tech stack to fit the organizations new strategy and business objectives'
+        description: 'Developed a new streamlined technology plan and tech stack to fit the organizations new strategy and business objectives'
     },
     {
         date: 'September 2022 - April 2023',
@@ -21,7 +21,7 @@ const timelineData = [
         description: 'Owned system design, maintenance, and operations of all software and hardware systems'
     },
     {
-        date: 'March 2019 - September 2022',
+        date: 'Jan 2010 - October 2017',
         title: 'IT Consultant II, 501 Commons',
         description: 'Managed over 20 customer networks including remote support, scheduled visits to client offices, and emergency incident response'
     },
